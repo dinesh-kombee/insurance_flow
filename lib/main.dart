@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:insurance_flow/login_page.dart';
-
-import 'claims_page.dart';
-import 'dashboard_page.dart';
+import 'auth/presentation/login_page.dart';
 
 void main() {
   runApp(const MyApp());

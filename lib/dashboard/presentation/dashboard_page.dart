@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:insurance_flow/profile_page.dart';
-import 'claims_page.dart';
-import 'documents_page.dart';
+import 'package:insurance_flow/claims/presentation/claims_page.dart';
+import 'package:insurance_flow/documents/presentation/documents_page.dart';
+import 'package:insurance_flow/profile/presentation/profile_page.dart';
 
 class MainPage extends StatefulWidget {
   const MainPage({super.key});
